@@ -1,0 +1,3 @@
+Este blog tuvo el uso de la IA "GitHub Copilot"
+El cual ayudo en gran parte con el estilo y diseño del blog
+Ademas de tambien ayudar con el poder agregar una imagen al agregar un nuevo post
